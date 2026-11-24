@@ -1,0 +1,10 @@
+=== RELATÓRIO DE CLASSIFICAÇÃO (TESTE FINAL) ===
+
+              precision    recall  f1-score   support
+
+    negativo     0.8621    0.7576    0.8065        33
+    positivo     0.7778    0.8750    0.8235        32
+
+    accuracy                         0.8154        65
+   macro avg     0.8199    0.8163    0.8150        65
+weighted avg     0.8206    0.8154    0.8149        65
